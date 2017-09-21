@@ -1,14 +1,11 @@
 $dbhost = getenv("POSTGRESQL_SERVICE_HOST");
 $dbport = getenv("POSTGRESQL_SERVICE_PORT");
-$dbname = getenv("OPENSHIFT_DB_NAME");
+$dbname = getenv("DB_NAME");
 
-$dbuser1 = getenv("POSTGRESQL_USER");
-$dbpassword1 = getenv("POSTGRESQL_PASSWORD");
+$dbuser = getenv("POSTGRESQL_USER");
+$dbpassword = getenv("POSTGRESQL_PASSWORD");
 
-$dbuser2 = getenv("OPENSHIFT_POSTGRESQL_DB_USERNAME");
-$dbpassword2 = getenv("OPENSHIFT_POSTGRESQL_DB_PASSWORD");
-
-$appname = getenv("OPENSHIFT_APP_NAME");
+$appname = getenv("APP_NAME");
 
 echo 'dbhost='.$dbhost;
 echo '<br>';
@@ -16,13 +13,27 @@ echo 'dbport='.$dbport;
 echo '<br>';
 echo 'dbname='.$dbname;
 echo '<br>';
-echo 'dbuser1='.$dbuser1;
+echo 'dbuser='.$dbuser;
 echo '<br>';
-echo 'dbpassword1='.$dbpassword1;
-echo '<br>';
-echo 'dbuser2='.$dbuser2;
-echo '<br>';
-echo 'dbpassword2='.$dbpassword2;
+echo 'dbpassword='.$dbpassword;
 echo '<br>';
 echo 'appname='.$appname;
 echo '<br>';
+
+$phpdb = "pgsql:"
+		. "host=".$dbhost.";"
+		. "dbname=".$dbname.";"
+		. "user=".$dbuser.";"
+		. "port=".$dbport.";"
+		 //."sslmode=require;"
+		. "password=".$dbpassword."";
+
+//$db = new PDO($remotePhp);
+$db = new PDO($phpdb);
+
+
+if (!$db) {
+	echo "Could not connect to database";
+} else {
+	echo "Connected to database.<br>";
+}
