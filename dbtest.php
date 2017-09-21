@@ -1,11 +1,10 @@
+<?php
 $dbhost = getenv("POSTGRESQL_SERVICE_HOST");
 $dbport = getenv("POSTGRESQL_SERVICE_PORT");
 $dbname = getenv("DB_NAME");
 
 $dbuser = getenv("POSTGRESQL_USER");
 $dbpassword = getenv("POSTGRESQL_PASSWORD");
-
-$appname = getenv("APP_NAME");
 
 echo 'dbhost='.$dbhost;
 echo '<br>';
@@ -17,8 +16,7 @@ echo 'dbuser='.$dbuser;
 echo '<br>';
 echo 'dbpassword='.$dbpassword;
 echo '<br>';
-echo 'appname='.$appname;
-echo '<br>';
+
 
 $phpdb = "pgsql:"
 		. "host=".$dbhost.";"
