@@ -6,7 +6,7 @@ $dbname = getenv("DB_NAME");
 $dbuser = getenv("POSTGRESQL_USER");
 $dbpassword = getenv("POSTGRESQL_PASSWORD");
 
-echo 'dbhost='.$dbhost;
+/*echo 'dbhost='.$dbhost;
 echo '<br>';
 echo 'dbport='.$dbport;
 echo '<br>';
@@ -16,6 +16,7 @@ echo 'dbuser='.$dbuser;
 echo '<br>';
 echo 'dbpassword='.$dbpassword;
 echo '<br>';
+*/
 
 
 $phpdb = "pgsql:"
@@ -35,3 +36,13 @@ if (!$db) {
 } else {
 	echo "Connected to database.<br>";
 }
+
+
+$sql = "SELECT * FROM holidays";
+$result=$db->prepare($sql);
+$result->execute();
+foreach ($result->fetchAll(PDO::FETCH_ASSOC) as $row) {
+	$notez=trim($row['notez']);
+	echo $notez;
+	echo "<br>";
+	}

@@ -2,11 +2,836 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="720d481a-66da-440e-9077-ba38f7a53d60" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/39_Calendar-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/boundlist/trigger-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/corners-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/l-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/l.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/r-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/tb-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/box/tb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow-open-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow-open-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-scroll-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-scroll-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-scroll-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-scroll-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-open-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-open-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-over-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-over-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-over.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/breadcrumb/default-split-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn-group/btn-group-default-framed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn-group/btn-group-default-framed-notitle-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn-group/btn-group-default-framed-notitle-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn-group/btn-group-default-framed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn-prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-large-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-medium-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-small-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-large-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-medium-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-pressed-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-default-toolbar-small-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-large-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-medium-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-focus-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-focus-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-pressed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/btn/btn-plain-toolbar-small-pressed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/arrow-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/btn-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/btn-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-large-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-large-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-large-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-large-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-large-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-large-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-medium-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-medium-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-medium-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-medium-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-medium-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-medium-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-small-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-small-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-small-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-small-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-small-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-small-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-large-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-large-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-large-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-large-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-large-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-large-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-medium-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-medium-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-medium-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-medium-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-medium-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-medium-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-small-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-small-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-small-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-small-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-small-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/default-toolbar-small-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/grid-cell-small-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/grid-cell-small-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/grid-cell-small-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/grid-cell-small-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/grid-cell-small-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/group-cs.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/group-lr.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/group-tb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-large-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-large-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-large-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-large-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-large-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-large-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-medium-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-medium-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-medium-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-medium-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-medium-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-medium-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-small-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-small-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-small-s-arrow-b-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-small-s-arrow-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-small-s-arrow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/plain-toolbar-small-s-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-b-noline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-bo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-light-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-light.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-noline-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-noline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-o-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-o.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/button/s-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-16 (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-16 (2).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-16 (3).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-3-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-80px-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar-alt-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/calendar_alt_fill-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/datepicker/arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/datepicker/arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/datepicker/datepicker-footer-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/datepicker/datepicker-header-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/datepicker/month-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/dd/drop-add.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/dd/drop-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/dd/drop-no.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/dd/drop-no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/dd/drop-yes.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/dd/drop-yes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/editor/tb-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/editor/tb-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/fieldset/collapse-tool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/box-select-item-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/checkbox.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/checkbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/clear-trigger-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/clear-trigger-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/clear-trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/clear-trigger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/date-trigger-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/date-trigger-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/date-trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/date-trigger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/date-trigger1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/error-tip-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/exclamation.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/radio.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/search-trigger-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/search-trigger-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/search-trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/search-trigger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-down-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-small-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-up-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/spinner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/tag-field-item-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/tag-field-item-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/text-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger-square-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger-square.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger-tpl-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger-tpl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/form/trigger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid-row-editor-buttons/grid-row-editor-buttons-default-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid-row-editor-buttons/grid-row-editor-buttons-default-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid-row-editor-buttons/grid-row-editor-buttons-default-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid-row-editor-buttons/grid-row-editor-buttons-default-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/arrow-left-white.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/arrow-right-white.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/cell-special-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/cell-special-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/cell-special-selected-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/cell-special-selected-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/col-move-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/col-move-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/col-move-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/col-move-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/column-header-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/column-header-over-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/columns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/columns.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dd-insert-arrow-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dd-insert-arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dd-insert-arrow-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dd-insert-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dirty-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dirty-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dirty.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/dirty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/done.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/drop-no.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/drop-no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/drop-yes.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/drop-yes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/filters/equals.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/filters/find.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/filters/greater_than.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/filters/less_than.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/footer-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid-blue-hd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid-blue-split.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid-hrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid-loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid-split.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid-vista-hd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid3-hd-btn-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid3-hd-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid3-hrow-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid3-hrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/grid3-rowheader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-by.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-by.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-collapse.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-collapse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-expand-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-expand.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/group-expand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hd-pop.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hd-pop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-asc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-desc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-unlock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/hmenu-unlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/invalid_line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/mso-hd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/nowait.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-first-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-first.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-first.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-last-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-last.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-last.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-next-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-next.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-prev-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/page-prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/pick-button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/pick-button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/property-cell-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/property-cell-selected-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/refresh-disabled.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/refresh.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/row-check-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/row-expand-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/row-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/row-sel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/sort-hd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/sort_asc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/sort_desc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/grid/wait.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/icon-calendar-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/icon-ios7-calendar-outline-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/layout/mini-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/layout/mini-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/layout/mini-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/layout/mini-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/loadmask/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/logo_ui.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/magnify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-checked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-group-checked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-group-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-menu-parent-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-menu-parent-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-menu-parent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-menu-parent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-scroll-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-scroll-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-scroll-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-scroll-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-unchecked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/menu/default-unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/office-15-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-bottom-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-bottom-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-bottom-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-left-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-left-fbg-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-left-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-left-sides-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-right-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-right-fbg-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-right-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-right-sides-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-top-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-collapsed-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-left-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-left-fbg-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-left-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-left-sides-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-right-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-right-fbg-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-right-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-right-sides-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-top-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-framed-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-left-bg-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-right-bg-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-default-top-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-left-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-right-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-collapsed-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-left-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-right-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel-header/panel-header-light-framed-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel/panel-default-framed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel/panel-default-framed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel/panel-light-framed-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/panel/panel-light-framed-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/progress/progress-default-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/blue-loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/glass-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/hd-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-error.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-question.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/icon-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/large-loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/left-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/loading-balls.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/right-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/shadow-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/shadow-lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/shared/warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/e-handle-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/e-handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/e-handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/ne-handle-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/ne-handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/ne-handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/nw-handle-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/nw-handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/nw-handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/s-handle-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/s-handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/s-handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/se-handle-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/se-handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/se-handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/square.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/sw-handle-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/sw-handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/sizer/sw-handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/slider/slider-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/slider/slider-thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/slider/slider-v-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/slider/slider-v-thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-plain-scroll-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-plain-scroll-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-plain-scroll-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-plain-scroll-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-bottom-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-bottom-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-left-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-left-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-right-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-right-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-top-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-top-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/default-scroll-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/tab-bar-default-bottom-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/tab-bar-default-left-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/tab-bar-default-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab-bar/tab-bar-default-top-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-disabled-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-disabled-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-disabled-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-active-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-active-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-active-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-focus-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-over-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-over-fbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-over-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tab/tab-default-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tip/tip-default-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tip/tip-default-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tip/tip-form-invalid-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tip/tip-form-invalid-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-more-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-more-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-more.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/default-scroll-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-more-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-more-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-more.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-scroll-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-scroll-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-scroll-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/footer-scroll-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/toolbar/toolbar-default-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tools/tool-sprite-tpl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tools/tool-sprites-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tools/tool-sprites.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tools/tool-sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tools/tools-sprites-trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/arrows-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/arrows-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/arrows.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-above.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-above.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-add.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-append.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-append.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-below.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-below.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-between.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-between.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-no.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-over.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-under.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-under.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-yes.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/drop-yes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-minus-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-minus-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-plus-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-plus-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-end.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-line-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-line-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus-nl-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus-nl-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus-nl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus-nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus-nl-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus-nl-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus-nl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus-nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/elbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder-open-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder-open-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/leaf-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/leaf-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/leaf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/tree/s.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/util/splitter/mini-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-bottom-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-bottom-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-left-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-right-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-collapsed-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-left-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-left-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-left-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-right-corners-rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-right-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-right-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-top-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window-header/window-header-default-top-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/icon-error.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/icon-info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/icon-question.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/icon-warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/toast/fade-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/toast/fader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/toast/icon16_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/toast/icon16_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/window-default-corners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/images/window/window-default-sides.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/cache.appcache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/App-all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/App-all_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/App-all_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/js/chance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/js/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operasi/resources/js/sha512.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbtest.php" afterPath="$PROJECT_DIR$/dbtest.php" />
     </list>
     <ignored path="simple-php-website.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +839,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -22,11 +848,11 @@
     <favorites_list name="simple-php-website" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -36,7 +862,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
@@ -46,9 +872,11 @@
       <file leaf-file-name="dbtest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dbtest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding />
+            <state vertical-scroll-proportion="0.20987654">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <marker date="1506020138809" expanded="true" signature="745:767" placeholder="SELECT * FRO..holidays..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,10 +899,17 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1033" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -101,7 +936,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -123,7 +957,105 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="template">
+            <PATH_ELEMENT USER_OBJECT="operasi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="simple-php-website">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="operasi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="simple-php-website">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="operasi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="simple-php-website">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="operasi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="deltas/resources/js/">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="simple-php-website">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="operasi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="archive/resources/">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="sha512.js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="simple-php-website">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="operasi">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="archive/resources/">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -131,6 +1063,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane />
@@ -138,17 +1071,94 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\inetpub\wwwroot\simple-php-website\operasi" />
       <recent name="C:\inetpub\wwwroot\simple-php-website\template" />
       <recent name="C:\inetpub\wwwroot\simple-php-website" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -164,12 +1174,257 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="simple-php-website" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -200,64 +1455,96 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="720d481a-66da-440e-9077-ba38f7a53d60" name="Default" comment="" />
       <created>1505925972128</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1505925972128</updated>
+      <workItem from="1506020078652" duration="266000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="266000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1033" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51259583" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -276,17 +1563,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/dbtest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -294,7 +1573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
@@ -302,9 +1581,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dbtest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506020138809" expanded="true" signature="745:767" placeholder="SELECT * FRO..holidays..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbtest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20987654">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <marker date="1506020138809" expanded="true" signature="745:767" placeholder="SELECT * FRO..holidays..." />
+          </folding>
         </state>
       </provider>
     </entry>
