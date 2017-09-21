@@ -1,8 +1,6 @@
-<?php
-
 $dbhost = getenv("POSTGRESQL_SERVICE_HOST");
 $dbport = getenv("POSTGRESQL_SERVICE_PORT");
-$dbname = getenv("POSTGRESQL_DATABASE");
+$dbname = getenv("OPENSHIFT_DB_NAME");
 
 $dbuser1 = getenv("POSTGRESQL_USER");
 $dbpassword1 = getenv("POSTGRESQL_PASSWORD");
